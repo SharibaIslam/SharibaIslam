@@ -1,3 +1,8 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
 # Hi, I'm Shariba Islam 👋
 
 Senior Software Quality Assurance Engineer with 9+ years of experience in Automation, API Testing, and CI/CD-driven environments within FinTech and Mobile Financial Services (MFS) platforms.
